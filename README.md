@@ -39,4 +39,4 @@ Kun menet haastatteluun, sinulla on ainakin a) Näyttöä koodista, versionhalli
 Jos sinulle tarjotaan opinnäytetyön aihetta, harjoittelupaikkaa tai työpaikkaa, etkä ole täysin
 selvillä siihen liittyvistä osaamisvaatimuksista, niin tule keskustelemaan opettajan kanssa. Selvitetään yhdessä osaamisvaatimukset ja laaditaan suunnitelma siitä miten mahdollinen puuttuva osaaminen hankitaan.
 
-<!-- http://tuitogitti.github.io/webdev-uraopas -->
+<!-- https://tuitogitti.github.io/webdev-uraopas -->
