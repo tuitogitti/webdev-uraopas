@@ -10,12 +10,12 @@ sillä ne ylläpitävät motivaatiotasi opetella koko ajan uutta.
 
 ### Portfolion laatiminen
 
-Potfoliokoodisi tulisi olla näytteillä jossain julkisessa Git-repositoryssä kuten esim. Githubissa. Valitse portfolioosi jokin kurssin lopputyö tai muu hieman laajempi ohjelmointityö jota jatkokehität silloin tällöin,niin että repoosi tulee joskus uusia committeja eikä se vaikuta "kuolleelta". Gitin monipuolisemman käytön (branchit yms.) osaamisen näyttäminen on aina plussaa.
+Potfoliokoodisi tulisi olla näytteillä jossain julkisessa Git-repositoryssä kuten esim. Githubissa. Valitse portfolioosi jokin kurssin lopputyö tai muu hieman laajempi ohjelmointityö jota jatkokehität silloin tällöin, niin että repoosi tulee joskus uusia committeja eikä se vaikuta "kuolleelta". Gitin monipuolisemman käytön (branchit yms.) osaamisen näyttäminen on aina plussaa.
 
 Tee ainakin joillekin portfoliokoodisi osille yksikkötestejä, joiden avulla näytät että osaat tehdä yksikkötestejä ja ymmärrät mistä testauksessa on kysymys. TDD-osaamisen näyttö olisi myös suotavaa.
 
 Julkaise sovelluksesi jollain tunnetulla pilvialustalla, esim. Heroku tai AWS. Jos pystyt rakentamaan
-yksinkertaisen automaattisen "julkaisuputken" eli CI:n,  esim. [Githubista Herokuun](https://devcenter.heroku.com/articles/github-integration), niin vielä parempi. Web-tekniikoilla tehty mobiilisovellus pitää julkaista tietysti sovelluskaupassa.
+yksinkertaisen automaattisen "julkaisuputken" eli CI:n, esim. [Githubista Herokuun](https://devcenter.heroku.com/articles/github-integration), niin vielä parempi. Web-tekniikoilla tehty mobiilisovellus pitää julkaista tietysti sovelluskaupassa.
 
 Avoimen lähdekoodin projektin kehitystyössä mukana oleminen on aina hyvä portfolionäyttö. Kaikkiin projekteihin ei kuka tahansa pääse osallistumaan, mutta valinnanvaraa on paljon. Tässä on hyvänä puolena se että oppii toimimaan johtavien kehittäjien määrittelemien käytänteiden mukaan, aivan kuten yrityksissä.
 
