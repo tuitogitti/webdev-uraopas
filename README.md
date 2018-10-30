@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+### Osaamisen tunnistaminen
 
-You can use the [editor on GitHub](https://github.com/tuitogitti/webdev-uraopas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Määrittele osaamisesi [Web-developer roadmapin](https://github.com/kamranahmedse/developer-roadmap) avulla. Kaikkea roadmapissa esitettyä ei tietenkään tarvitse osata, mutta perusasiat ja ainakin joitakin polkujen alkuvaiheiden menetelmiä on syytä tuntea.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Voit keskittyä syvällisemmin johonkin kolmesta linjasta: [frontend](https://github.com/kamranahmedse/developer-roadmap#-frontend-roadmap), [backend](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap) tai [devops](https://github.com/kamranahmedse/developer-roadmap#-devops-roadmap), mutta jonkinlainen perustietämys kaikista on tarpeellinen. Muista että työnantajan tarve määrittelee lopulta tulevan tehtäväsi. Joudut lähes aina opettelemaan muutakin kuin sitä mikä eniten kiinnostaa.
 
-### Markdown
+Osaamisen tunnistaminen helpottuu kun osaaminen kehittyy.
+Harrastuneisuus ja innostus alaa kohtaan ovat hyvin tärkeitä,
+sillä ne ylläpitävät motivaatiotasi opetella koko ajan uutta.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Portfolion laatiminen
 
-```markdown
-Syntax highlighted code block
+Potfoliokoodisi tulisi olla näytteillä jossain julkisessa Git-repositoryssä kuten esim. Githubissa. Valitse portfolioosi jokin kurssin lopputyö tai muu hieman laajempi ohjelmointityö jota jatkokehität silloin tällöin, niin että repoosi tulee joskus uusia committeja eikä se vaikuta "kuolleelta". Gitin monipuolisemman käytön (branchit yms.) osaamisen näyttäminen on aina plussaa.
 
-# Header 1
-## Header 2
-### Header 3
+Tee ainakin joillekin portfoliokoodisi osille yksikkötestejä, joiden avulla näytät että osaat tehdä yksikkötestejä ja ymmärrät mistä testauksessa on kysymys. TDD-osaamisen näyttö olisi myös suotavaa.
 
-- Bulleted
-- List
+Julkaise sovelluksesi jollain tunnetulla pilvialustalla, esim. Heroku tai AWS. Jos pystyt rakentamaan
+yksinkertaisen automaattisen "julkaisuputken" eli CI:n, esim. [Githubista Herokuun](https://devcenter.heroku.com/articles/github-integration), niin vielä parempi. Web-tekniikoilla tehty mobiilisovellus pitää julkaista tietysti sovelluskaupassa.
 
-1. Numbered
-2. List
+Avoimen lähdekoodin projektin kehitystyössä mukana oleminen on aina hyvä portfolionäyttö. Kaikkiin projekteihin ei kuka tahansa pääse osallistumaan, mutta valinnanvaraa on paljon. Tässä on hyvänä puolena se että oppii toimimaan johtavien kehittäjien määrittelemien käytänteiden mukaan, aivan kuten yrityksissä.
 
-**Bold** and _Italic_ and `Code` text
+LinkedIn -profiili tai vastaava ansioluettelo on tietysti ihan "ok", mutta edellä mainitut portfolionäytöt ovat paljon tärkeämpiä.
 
-[Link](url) and ![Image](src)
-```
+### Opinnäytetyöpaikan, harjoittelupaikan tai työpaikan haku
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Opinnäytetyöpaikan, harjoittelupaikan tai työpaikan haku web-sovelluskehitysalalta on helppoa. Yritysten sivustoilla on jatkuvasti ilmoituksia avoimista paikoista. Mol.fi ja muut työnhakusivustot eivät sisällä läheskään kaikkia avoimia paikkoja, mutta aika paljon niistäkin löytyy. Voit pohtia opettajan kanssa mitkä ovat parhaiten osaamisprofiiliisi sopivia yrityksiä.
 
-### Jekyll Themes
+Muista että paras järjestys opintojen ja työllistymisen kannalta on yleensä 1) opinnäytetyö, 2) harjoittelu ja 3) työpaikka. Opinnäytetyö kannattaa tehdä ennen harjoittelua, sillä se on hyvä "sisäänajo" harjoitteluun. Kun perehdyt opinnäytetyössä harjoittelussa tarpeellisiin asioihin, harjoittelusi sujuu paremmin ja kun harjoittelu sujuu hyvin, saat varmemmin töitä.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tuitogitti/webdev-uraopas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Vastaaminen rekrylomakkeeseen tai sähköposti ovat tyypillisimmät tavat tehdä ensimmäinen yhteydenotto. Ensin kannattaa esitellä itsensä ja tiedustella opinnäytetyön tekijän, harjoittelijan tai työntekijän tarvetta yrityksessä. Koulutus ja osaaminen kannattaa jo tässä vaiheessa lyhyesti mainita ja laittaa linkki portfolioon. Ensimmäisen yhteydenoton ei pitäisi olla pitkä tarina vaan mieluummin lyhyt ja ytimekäs. Joihinkin työpaikkoihin, esim. julkiselle sektorille, saattaa joutua tekemään heti virallisen työhakemuksen.
 
-### Support or Contact
+Valmistaudu yrityksessä tapahtuvaan haastatteluun hyvin. Ota etukäteen mahdollisimman paljon selvää yrityksen liiketoiminnasta, asiakkaista, palveluista tai tuotteista ja yrityksen käyttämistä sovelluskehitysteknologioista. Lue yrityksen sivuilta erityisesti rekrytointi-ilmoitukset ja työntekijöiden blogit. Jos et tunne lainkaan jotain yrityksen kayttämää teknologiaa, tutustu siihen web-tutoriaalien avulla edes pinnallisesti parina iltana ennen haastattelua. Pohdi millainen voisi olla työroolisi yrityksessä. Kehittele alustavasti ainakin pari-kolme hieman eri tyyppistä työroolia.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Keskustele opettajan kanssa ennen haastatteluun menoa. Opettaja voi "sparrata" sinua
+haastatteluun. Hänellä saattaa olla tarkempaa tietoa kyseisestä yrityksestä, suhteita siellä työskenteleviin henkilöihin kuten alumneihin tai jopa tietoa siitä minkä tyyppisestä haastattelusta on kysymys.
+
+Kun menet haastatteluun, sinulla on ainakin a) Näyttöä koodista, versionhallinnasta ja testauksesta Githubissa tai vastaavalla alustalla. b) Pilvialustalla ja/tai sovelluskaupassa julkaistu sovellus. c) Perustiedot yrityksestä ja sen käyttämistä teknologioista sekä ajatuksia siitä mikä voisi olla roolisi yrityksessä.
+
+Jos sinulle tarjotaan opinnäytetyön aihetta, harjoittelupaikkaa tai työpaikkaa, etkä ole täysin
+selvillä siihen liittyvistä osaamisvaatimuksista, niin tule keskustelemaan opettajan kanssa. Selvitetään yhdessä osaamisvaatimukset ja laaditaan suunnitelma siitä miten mahdollinen puuttuva osaaminen hankitaan.
+
+<!-- http://tuitogitti.github.io/webdev-uraopas -->
